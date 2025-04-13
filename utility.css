@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.button{
+    display: inline;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: lavender;
+    
+}
+
+.container{
+    display: inline;
+    text-align: center;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+ display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.row{
+    margin: 0 3px;
+    padding: 2px;
+}
+
+.row input{
+    font-size: 16.5px;
+    padding: 10px;
+    margin-bottom: 13px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lavenderblush;
+}
